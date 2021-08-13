@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ItauApplication<itau>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "br.com.itau.ItauApplication",
+            "projectName": "itau",
+            "args": ""
+        }
+    ]
+}
