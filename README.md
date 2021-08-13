@@ -3,7 +3,7 @@ Desafio Itaú Backend - Validação senha
 
 O Projeto foi desenvolvido utilizando Spring Boot com a ideia de tornar a manutenção e implementação de novos serviços algo simples de ser realizado.
 
-A lógica implementada foi a utilização de regex para facilitar a validação da senha inserida no endpoint.
+A lógica implementada foi a utilização de regex para facilitar a validação da senha inserida no endpoint, podendo ser implementa de outras formas por conta da estrutura do projeto.
 
 ## Requisitos
 
