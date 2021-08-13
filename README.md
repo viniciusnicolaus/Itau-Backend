@@ -14,7 +14,7 @@ Para buildar e rodar a aplicação é preciso o download de alguns items:
 - [Lombok](https://projectlombok.org/) - Caso necessário o download direto do plugin do Lombok para a sua IDE. É necessário adicionar a dependência ao seu projeto.
 
 
-##Executar o projeto 
+## Executar o projeto 
 
 ```shell
 https://github.com/viniciusnicolaus/Itau-Backend.git
